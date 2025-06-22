@@ -10,7 +10,7 @@ I love working with Python, C#, Blender, and building useful tools for artists a
 🚀 [Render Notifications – Blender Add-on](https://github.com/yourusername/render-notifications)  
 Sends render updates via Discord, desktop, and webhook (Home Assistant friendly!)
 
-📊 [My Dashboard](https://github.com/JimmyNos/My-Dashboard)  
+📊 [My Dashboard (WIP)](https://github.com/JimmyNos/My-Dashboard)  
 A C# application that monitors PC, laptop, or NAS hardware. It connects to a Django backend hosted in Docker, allowing system stats to be viewed remotely via a browser.
 
 💬 [Chat App](https://github.com/ThePrince05/Chat-App)  
