@@ -7,7 +7,7 @@ I love working with Python, C#, Blender, and building useful tools for artists a
 
 ## 🔧 Projects
 
-🚀 [Render Notifications – Blender Add-on](https://github.com/yourusername/render-notifications)  
+🚀 [Render Notifications – Blender Add-on](https://github.com/JimmyNos/render-notifications)  
 Sends render updates via Discord, desktop, and webhook (Home Assistant friendly!)
 
 🕒 [ShutDown Scheduler App](https://github.com/JimmyNos/ShutDown-Scheduler)  
