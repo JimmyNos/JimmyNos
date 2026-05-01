@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Michael Mosako (aka JimmyNoStar)
+# 👋 Hey, I'm Michael M. (aka JimmyNoStar)
 
 I'm a Junior Software Developer, 3D Artist, and Blender Add-on Creator.  
 I love working with Python, C#, Blender, and building useful tools for artists and devs alike.
